@@ -12,3 +12,7 @@
 ```
 kfhlhfljg
 ````
+
+
+git fetch 
+git pull
